@@ -1,0 +1,54 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(231, 222, 222, 0.695);
+}
+
+h1 {
+    background-color: rgba(110, 110, 235, 0.573);
+    border-radius: 9px solid rgb(54, 54, 116);
+    color: #f1eeee;
+    text-align: center;
+}
+
+li {
+    margin: 20px;
+}
+
+form {
+    background-color: rgb(119, 119, 119);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 0 35%;
+    width: 30%;
+    border-radius: 10px;
+    margin-top: 160px;
+}
+
+input {
+    margin: 3px 0;
+    box-shadow: inset 2px 2px 4px rgb(119, 119, 119);
+}
+
+button{
+    padding: 5px 10px; 
+    margin: 0 40px; 
+    border-radius: 10px;  
+}
+
+a {
+    text-decoration: none;
+    color: #f1eeee;
+    margin-top: 10px;
+}
+
+#error {
+    color: red;
+}
+
+#errors_list li {
+    color: red;
+    font-style: oblique;
+}

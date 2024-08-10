@@ -1,0 +1,129 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@admin.admin",
+        "password": "$2y$10$tS16iQxMZo69Z8i1S8upr.3eGmfJDY81zdVBGSJanrOelUtkjuacS",
+        "money": 14618,
+        "type": "admin",
+        "cards": {
+            "Spearow": {
+                "name": "Spearow",
+                "type": "normal",
+                "hp": 40,
+                "attack": 60,
+                "defense": 30,
+                "price": 262,
+                "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png"
+            },
+            "Squirtle": {
+                "name": "Squirtle",
+                "type": "water",
+                "hp": 44,
+                "attack": 48,
+                "defense": 65,
+                "price": 314,
+                "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png"
+            },
+            "Caterpie": {
+                "name": "Caterpie",
+                "type": "bug",
+                "hp": 45,
+                "attack": 30,
+                "defense": 35,
+                "price": 195,
+                "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png"
+            },
+            "Weedle": {
+                "name": "Weedle",
+                "type": "bug",
+                "hp": 40,
+                "attack": 35,
+                "defense": 30,
+                "price": 195,
+                "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png"
+            },
+            "Pikachu": {
+                "name": "Pikachu",
+                "type": "electric",
+                "hp": 60,
+                "attack": 20,
+                "defense": 20,
+                "price": 160,
+                "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/025.png"
+            },
+            "Charizard": {
+                "name": "Charizard",
+                "type": "fire",
+                "hp": 22,
+                "attack": 22,
+                "defense": 22,
+                "price": 22,
+                "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png"
+            },
+            "Rattata": {
+                "name": "Rattata",
+                "type": "normal",
+                "hp": 30,
+                "attack": 56,
+                "defense": 35,
+                "price": 253,
+                "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/019.png"
+            },
+            "Ekans": {
+                "name": "Ekans",
+                "type": "poison",
+                "hp": 35,
+                "attack": 60,
+                "defense": 44,
+                "price": 288,
+                "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/023.png"
+            },
+            "Pidgey": {
+                "name": "Pidgey",
+                "type": "normal",
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "price": 251,
+                "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/016.png"
+            },
+            "Bulbasaur": {
+                "name": "Bulbasaur",
+                "type": "grass",
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "price": 318,
+                "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png"
+            }
+        }
+    },
+    "pedram": {
+        "username": "pedram",
+        "email": "ped@g.co",
+        "password": "$2y$10$xn\/azIe6mVmFCRhkFNHzdO0f5KVQON6j4h4NKWfHqXBV0hO0EEdIq",
+        "money": 500,
+        "type": "user",
+        "notified": false,
+        "cards": []
+    },
+    "markus": {
+        "username": "markus",
+        "email": "mar@k.co",
+        "password": "$2y$10$OScua45BFWO3STHaGuFgm.7v3xD5pMPvdLs1tdz97MJxoHF5yhWtO",
+        "money": 500,
+        "type": "user",
+        "notified": false,
+        "cards": []
+    }
+}
